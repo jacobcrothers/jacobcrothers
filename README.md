@@ -1,5 +1,5 @@
 # Thanks for visiting my Git! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" height="40px">
-<a target="blank" href="https://profile-counter.glitch.me/giorgiebanoidze25/count.svg"><p align="center">💖 Visited Counts 💖<br><br> <img src="https://profile-counter.glitch.me/giorgiebanoidze25/count.svg" /></a>
+<a target="blank" href="https://profile-counter.glitch.me/jacobcrothers/count.svg"><p align="center">💖 Visited Counts 💖<br><br> <img src="https://profile-counter.glitch.me/jacobcrothers/count.svg" /></a>
 
 ---
  
@@ -7,8 +7,8 @@
 
 <p align=center>
 <div align=center>
-<img align=right width=420 src="https://github-readme-stats.vercel.app/api?username=giorgiebanoidze25&hide=prs&include_all_commits=true&theme=onedark&layout=compact&show_icons=true" />
-<img align=left width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=giorgiebanoidze25&theme=onedark" />
+<img align=right width=420 src="https://github-readme-stats.vercel.app/api?username=jacobcrothers&hide=prs&include_all_commits=true&theme=onedark&layout=compact&show_icons=true" />
+<img align=left width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=jacobcrothers&theme=onedark" />
 <br>
 <br>
 <br>
